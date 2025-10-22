@@ -3,8 +3,7 @@
 # REG NO : 212223060122
 
 ## AIM: 
-
- To design an IIR Chebyshev filter  using SCILAB. 
+To design an IIR Chebyshev filter  using SCILAB. 
 
 ## APPARATUS REQUIRED: 
 PC installed with SCILAB. 
